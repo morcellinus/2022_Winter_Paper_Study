@@ -18,5 +18,5 @@ Papers You Must Read(PYMR) 리스트를 참고했습니다. [관련링크](https
 * 멤버: 고경현(27기), 이진모(27기), 주혜인(27기), 홍현경(27기), 박이현(28기), 장이준(28기)
 
 `1주차` <br>
-1팀(고경현, 이진모, 장이준): An Introduction to Kernel-Based Learning Algorithms <br>
-2팀(박이현, 주혜인, 홍현경): XGBoost: A Scalable Tree Boosting System
+1팀(고경현, 이진모, 장이준): An Introduction to Kernel-Based Learning Algorithms [노션](https://www.notion.so/1-1-1d1d74333dbc40bdaa772b29295cf1ed) <br>
+2팀(박이현, 주혜인, 홍현경): XGBoost: A Scalable Tree Boosting System [노션](https://sideways-capacity-71f.notion.site/XGBoost-A-Scalable-Tree-Boosting-System-5a762185b7604816b39575328beb2e97)
