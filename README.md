@@ -22,6 +22,7 @@ Papers You Must Read(PYMR) 리스트를 참고했습니다. [관련링크](https
 1팀(고경현, 이진모, 장이준): An Introduction to Kernel-Based Learning Algorithms [Notion Link](https://well-scabiosa-7d1.notion.site/Support-Vector-Machine-SVM-c20767c5076344e78411f94e25177cec) <br>
 2팀(박이현, 주혜인, 홍현경): XGBoost: A Scalable Tree Boosting System [Notion Link](https://sideways-capacity-71f.notion.site/XGBoost-A-Scalable-Tree-Boosting-System-5a762185b7604816b39575328beb2e97)
 <br>
+<br>
 `2주차` <br>
 * 2주차에는 학회 세미나 기간과 겹쳐 팀별 세션을 진행하지 않았습니다. <br>
 * 그대신 각자 향후 학업에 필요한 개념을 검토하고 정리하는 시간을 가졌습니다. <br>
