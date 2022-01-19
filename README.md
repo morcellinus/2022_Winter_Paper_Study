@@ -6,8 +6,7 @@
 2022년 1월 4일부터 2022년 #월 #일까지 진행한 <br>
 PSAT 겨울방학 논문스터디 자료입니다.
 
-* 매주 1회 팀별로 지정한 논문을 공부한 후 <br>
-발표를 통해 다른 팀과 공유합니다.
+* 매주 1회 팀별로 지정한 논문을 공부한 후 발표를 통해 다른 팀과 공유합니다.
 
 * 각 팀은 3명으로 구성되며 매 세션마다 달라집니다.
 
@@ -28,6 +27,7 @@ Papers You Must Read(PYMR) 리스트를 참고했습니다. [관련링크](https
 * 2주차에는 학회 세미나 기간과 겹쳐 팀별 세션을 진행하지 않았습니다. <br>
 * 그대신 각자 향후 학업에 필요한 개념을 검토하고 정리하는 시간을 가졌습니다. <br>
 * 아래는 그 결과물입니다. <br>
+
 이진모: 라그랑주 승수법의 이해 [[Notion Link]](https://superficial-fernleaf-a58.notion.site/f567695fc0b040a98dff4ffee28f25d7) <br>
 이진모: 벡터와 행렬의 미적분 [[Notion Link]](https://superficial-fernleaf-a58.notion.site/39b7bd75e46a42e8824f24f26efe8387) <br>
 이진모: 테일러 급수와 뉴턴법 [[Notion Link]](https://superficial-fernleaf-a58.notion.site/ceaad71b0c2942c48db4f2676eb3c2d3) <br>
