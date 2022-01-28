@@ -24,11 +24,11 @@ Papers You Must Read(PYMR) 리스트를 참고했습니다. [관련링크](https
 <br>
 <br>
 `2주차` <br>
-* 2주차에는 학회 세미나 기간과 겹쳐 팀별 세션을 진행하지 않았습니다. <br>
-* 그대신 각자 향후 학업에 필요한 개념을 검토하고 정리하는 시간을 가졌습니다. <br>
-* 아래는 그 결과물입니다. <br>
+2주차에는 학회 세미나 기간과 겹쳐 팀별 세션을 진행하지 않았습니다. <br>
+그대신 각자 향후 학업에 필요한 개념을 검토하고 정리하는 시간을 가졌습니다. <br>
 
 이진모: 라그랑주 승수법의 이해 [[Notion Link]](https://superficial-fernleaf-a58.notion.site/f567695fc0b040a98dff4ffee28f25d7) <br>
 이진모: 벡터와 행렬의 미적분 [[Notion Link]](https://superficial-fernleaf-a58.notion.site/39b7bd75e46a42e8824f24f26efe8387) <br>
 이진모: 테일러 급수와 뉴턴법 [[Notion Link]](https://superficial-fernleaf-a58.notion.site/ceaad71b0c2942c48db4f2676eb3c2d3) <br>
-이진모: 경사하강법의 이해 [[Notion Link]](https://superficial-fernleaf-a58.notion.site/7b1b189ac99e4de99eb32d7ecdea544f)
+이진모: 경사하강법의 이해 [[Notion Link]](https://superficial-fernleaf-a58.notion.site/7b1b189ac99e4de99eb32d7ecdea544f) <br>
+고경현: EM Algorithm [[Notion Link]](https://maze-goose-a79.notion.site/EM-Algorithm-07259d9a49824df4803b86d0e30468bd)
