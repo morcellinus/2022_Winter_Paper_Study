@@ -39,3 +39,9 @@ Papers You Must Read(PYMR) 리스트를 참고했습니다. [관련링크](https
 * 논문 리뷰 <br>
 
 이진모: An Introduction to Variable and Feature Seleciton [[Notion Link]](https://superficial-fernleaf-a58.notion.site/An-Introduction-to-Variable-and-Feature-Selection-be6fd75451e8437f91265b62588267f4)
+<br>
+<br>
+`3주차` <br>
+<br>
+1팀(고경현, 장이준, 주혜인): A Unified Approach to Interpreting Model Predictions [[Notion Link]](https://well-scabiosa-7d1.notion.site/2-1-3f1154e1cc6c4b4abb10984caa77ae24) <br>
+2팀(박이현, 이진모, 홍현경): Isolation Forest [[Notion Link]](https://superficial-fernleaf-a58.notion.site/Isolation-Forest-d862cd9a42eb4aee83cc2cea52b94fb6)
