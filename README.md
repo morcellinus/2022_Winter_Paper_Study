@@ -50,4 +50,4 @@ Papers You Must Read(PYMR) 리스트를 참고했습니다. [관련링크](https
 `4주차` <br>
 <br>
 1팀(박이현, 이진모, 장이준): Sequence to Sequence with Neural Network + Attention is All You Need [[Notion Link]](https://superficial-fernleaf-a58.notion.site/Sequence-to-Sequence-Learning-with-Neural-Networks-Attention-is-All-You-Need-31ad16a74fcf48b2aad55076b535ec4b) <br>
-2팀(고경현, 주혜인, 홍현경): An Introduction to ROC Analysis [[Notion Link]] (https://www.notion.so/An-introduction-to-ROC-analysis-b220e132972242ac906922bafec9a77a)
+2팀(고경현, 주혜인, 홍현경): An Introduction to ROC Analysis [[Notion Link]](https://www.notion.so/An-introduction-to-ROC-analysis-b220e132972242ac906922bafec9a77a)
