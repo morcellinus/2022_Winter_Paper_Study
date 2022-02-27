@@ -51,3 +51,10 @@ Papers You Must Read(PYMR) 리스트를 참고했습니다. [관련링크](https
 <br>
 1팀(박이현, 이진모, 장이준): Sequence to Sequence with Neural Network + Attention is All You Need [[Notion Link]](https://superficial-fernleaf-a58.notion.site/Sequence-to-Sequence-Learning-with-Neural-Networks-Attention-is-All-You-Need-31ad16a74fcf48b2aad55076b535ec4b) <br>
 2팀(고경현, 주혜인, 홍현경): An Introduction to ROC Analysis [[Notion Link]](https://www.notion.so/An-introduction-to-ROC-analysis-b220e132972242ac906922bafec9a77a)
+<br>
+<br>
+`5주차` <br>
+<br>
+고경현: Zero-Shot Learning Through Cross-Model Transfer [[Notion Link]](https://maze-goose-a79.notion.site/Zero-Shot-Learning-Through-Cross-Modal-Transfer-0251d4da868748beb3f2d8ee9b04bbe8) <br>
+박이현: An Overview of Gradient Descent Optimization Algorithms [[Notion Link]](https://lateral-spoonbill-ef4.notion.site/An-overview-of-gradient-descent-optimization-algorithms-59c98b3fabc5490ab8ee29500dd5a274) <br>
+이진모: Auto-Encoding Variational Bayes [[Notion Link]](https://superficial-fernleaf-a58.notion.site/Auto-Encoding-Variational-Bayes-d223dfca143944459dfa47f1492bd466)
